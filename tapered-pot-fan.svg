@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="70cm" height="70cm" viewBox="0 0 70 70">
+  <path d="
+    M 66.86 30.52
+    A 32.16 32.16 0 0 1 66.86 39.48
+    L 62.88 38.92
+    A 28.14 28.14 0 0 0 62.88 31.08
+    Z"
+    fill="none" stroke="black" stroke-width="0.05"/>
+</svg>
